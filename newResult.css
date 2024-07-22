@@ -73,3 +73,7 @@ body {
     display: flex;
     align-items: center;
 }
+.liked {
+  background-color: #ffcc00;
+  color: white;
+}
